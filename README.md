@@ -195,8 +195,7 @@ CMD ["npm", "start"]
   - Check file size limits (default: 10MB)
 
 - **DWG Processing Issues**  
-  - Confirm Teigha Converter is installed  
-  - Check file version compatibility
+  - Needs addition of DWG parsing feature
 
 ---
 

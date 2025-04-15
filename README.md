@@ -52,7 +52,7 @@ CREATE INDEX idx_blocks_fileId ON "Blocks"("fileId");
 ### Setup Steps
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/cad-blocks-app.git
+git clone https://github.com/sakethmalladi/rarome-cad-blocks-viewer.git
 cd cad-blocks-app
 
 # Install dependencies

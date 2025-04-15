@@ -202,8 +202,14 @@ CMD ["npm", "start"]
 ## 🤖 AI Assistance
 
 - **Code Generation**: Used GitHub Copilot for boilerplate
+                      - "Generate Sequelize model for CAD files with these fields: filename, originalname, size, createdAt"
+                      - "Write Express error handling middleware for file uploads"
 - **Debugging**: Leveraged ChatGPT for diagnosing memory leaks
+                - "My Node.js app crashes when parsing large DXF files with dxf-parser. Error: JavaScript heap out of memory"
+                - "Sequelize association error: 'File' is not associated with 'Block'"
 - **Optimization**: AI recommended database indexing strategies
+                  - "Suggest PostgreSQL indexes for a CAD blocks table with frequent queries by name and fileId"
+                  - "Optimize this DXF parsing loop in Node.js"
 
 ---
 

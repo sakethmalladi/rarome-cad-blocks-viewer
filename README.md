@@ -1,7 +1,7 @@
 # CAD Blocks Application Documentation
 
 ## 📌 Project Overview
-A Node.js and PostgreSQL application for processing and visualizing CAD file blocks (DXF/DWG).
+A Node.js and PostgreSQL application for processing and visualizing CAD file blocks (DXF).
 
 ---
 
